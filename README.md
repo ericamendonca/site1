@@ -9,4 +9,4 @@ Este é o meu primeiro repositório no GitHub! Aqui estou aplicando o que aprend
 * **CSS3**: Cores, fontes e layout.
 
 ## 🔗 Link para visualizar
-[Clique aqui para ver o meu site online](https://ericamendonca.github.io/Primeiro-site/)
+[Clique aqui para ver o meu site online]( https://ericamendonca.github.io/site1/)
